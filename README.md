@@ -10,7 +10,7 @@ In the project directory run to install all dependencies:
 
 In the server directory create a .env file and add:
 
-### MONGO_URL=<mongodb_uri>
+### MDB_URI=<mongodb_uri>
 
 ### JWT_KEY=<jwt_secret_key>
 
